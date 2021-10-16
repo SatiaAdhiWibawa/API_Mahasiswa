@@ -1,3 +1,13 @@
+Pertama Download file CodeIgniter, lalu upload ke Webhosting, lalu tinggal gunakan API yang sudah di buat dalam CodeIgniter tersebut.
+Selanjutnya buat aplikasi Mobile Menggunakan React Native. untuk conton aplikasinya :
+https://snack.expo.dev/@satiaadhi/d1a180406_satiaadhiwibawa_daftarmahasiswa
+di aplikasi mobile tersebut telah terdapat data mahasiswa dari API codeigniter.
+
+----------------------------
+Membuat Aplikasi Mobile Sederhana dengan menggunakan API
+Backend Menggunakan Framework CodeIgniter
+Frontend Menggunakan Framework Reat Native
+
 ###################
 What is CodeIgniter
 ###################
